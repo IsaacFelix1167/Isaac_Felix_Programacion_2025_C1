@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1739539294 source:c:\codeblock\calculadora con funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
