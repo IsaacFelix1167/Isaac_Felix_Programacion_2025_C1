@@ -127,7 +127,15 @@ float multiplicacion(float n1, float n2) //Operacion Multiplicacion
 float division(float n1, float n2) //Operacion Division
 {
     float result = 0.0;
-    result = n1 / n2;
+
+    if (n2 != 0)
+    {
+       result = n1 / n2;
+    }
+    else
+    {
+        result = 0;
+    }
     return result;
 }
 
