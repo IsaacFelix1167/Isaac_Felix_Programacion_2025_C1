@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1741220757 source:c:\codeblock\capitulo 7 ejercicio 16\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1741222922 source:c:\codeblock\capitulo 7 ejercicio 19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
