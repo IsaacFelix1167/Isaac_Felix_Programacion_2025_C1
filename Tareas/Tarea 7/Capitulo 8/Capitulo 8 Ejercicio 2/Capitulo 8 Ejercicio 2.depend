@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1741276049 source:c:\codeblock\tarea 7\capitulo 8\capitulo 8 ejercicio 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
