@@ -36,7 +36,7 @@ int main()
     printf("Ingrese el consumo del vehiculo (galones por Km): ");
     scanf("%f", &vehiculo.consumo);
 
-    while(1)
+    while(1) //Bucle en dado caso se ingrese un combustible no valido.
     {
         printf("Ingrese el tipo de combustible (Gasolina, Gasoil, Gas): ");
         scanf("%s", vehiculo.combustible);
