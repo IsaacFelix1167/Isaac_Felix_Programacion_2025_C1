@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1741969342 source:c:\codeblock\tarea 8\programa carro\vehiculo combustible 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
