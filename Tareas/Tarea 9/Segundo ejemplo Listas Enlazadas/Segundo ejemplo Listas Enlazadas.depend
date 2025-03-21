@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1742511396 source:c:\codeblock\tarea 9\segundo ejemplo listas enlazadas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

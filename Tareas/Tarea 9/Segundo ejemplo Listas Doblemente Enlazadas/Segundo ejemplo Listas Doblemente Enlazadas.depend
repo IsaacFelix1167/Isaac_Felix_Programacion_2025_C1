@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1742514652 source:c:\codeblock\tarea 9\segundo ejemplo listas doblemente enlazadas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
