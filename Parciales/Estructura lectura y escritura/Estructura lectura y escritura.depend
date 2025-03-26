@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1742955178 source:c:\codeblock\segundo parcial\estructura lectura y escritura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
