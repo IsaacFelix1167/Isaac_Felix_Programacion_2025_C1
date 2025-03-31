@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1743464094 source:c:\codeblock\tarea 11\loteria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
