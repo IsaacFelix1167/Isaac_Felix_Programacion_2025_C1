@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1744251822 source:c:\codeblock\tarea 12\torre de hanoy\torre de hanoy grafica\main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1744248633 source:c:\codeblock\tarea 12\caballo\main.c
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<stdlib.h>
+

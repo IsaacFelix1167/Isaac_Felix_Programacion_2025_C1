@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1744246197 source:c:\codeblock\tarea 12\programa decifrado con memoria dinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

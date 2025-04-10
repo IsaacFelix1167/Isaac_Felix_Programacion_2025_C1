@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1744236974 source:c:\codeblock\tarea 12\programa cifrado con memoria dinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
